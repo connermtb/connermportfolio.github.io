@@ -70,14 +70,19 @@ section#content p {
 aside#hobbies {
 	font-size: 90%;
 	float: right;
-	width: 450px;
+	width: 463px;
 	margin-bottom: 20px;
+	border-left: 1px solid #7f7f7f;
 }
 
 footer#pageFooter {
 	clear: both;
 	border-top: 2px solid #7f7f7f;
 	padding: 20px;
+}
+
+#hobbies p {
+	padding: 0 10px;
 }
 
 footer#pageFooter p {
